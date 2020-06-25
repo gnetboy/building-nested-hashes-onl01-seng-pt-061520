@@ -11,7 +11,9 @@ def second_challenge
       : matriach => {},
       : heroine => {},
       : heroine_friends => []
-      }}
+      }
+    
+  }
 
   
 end
